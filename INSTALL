@@ -1,0 +1,9 @@
+Building Gcash
+
+See doc/readme-qt.rst for instructions on building Gcash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gcash.
+
+See doc/build-*.txt for instructions on building Gcashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gcash.
