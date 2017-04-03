@@ -1,7 +1,7 @@
 * update translations (ping tcatm on IRC for now)
 
 * update (commit) version in sources
-  bitcoin-qt.pro
+  Gcash-qt.pro
   src/version.h
   share/setup.nsi
   doc/README*
